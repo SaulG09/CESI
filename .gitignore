@@ -1,0 +1,26 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.idea/
+*.iml
+
+# iOS/Android related
+ios/Pods
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+*.iml
+.idea/
+
+# MacOS
+.DS_Store
