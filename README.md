@@ -1,6 +1,9 @@
 # **CESI**
 CESI es una app web y móvil desarrollada para la gestión y control para la entrega de alumnos mediante QR, generación de reportes y optimización de procesos académicos ideada para escuelas que requieran realizar procesos de manera optimizada.
 
+# App web
+https://cesi.up.railway.app
+
 # **Administración de la escuela**
 Administra y gestiona la escuela haciendo uso de la app web.<br><br>
 ![image](https://github.com/user-attachments/assets/e6b1cb62-94cc-4ef0-8d2e-7aaa8efbc2bb)
